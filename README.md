@@ -4,7 +4,7 @@ Company website that provides articles and links to services for search engine o
 
 ## Website
 
-[Horiseon Social Solutions](https://mfactory88.github.io/urban-octo-telegram/Develop/)
+[Horiseon Social Solutions](https://mfactory88.github.io/mc-m1-challenge/Develop/)
 
 ## Increased Site Accessibility
 
